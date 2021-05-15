@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/githunMiprimeraAPP/static/css/main.9e23c673.chunk.css",
+    "main.js": "/githunMiprimeraAPP/static/js/main.361c7440.chunk.js",
+    "main.js.map": "/githunMiprimeraAPP/static/js/main.361c7440.chunk.js.map",
+    "runtime-main.js": "/githunMiprimeraAPP/static/js/runtime-main.2aec1dc6.js",
+    "runtime-main.js.map": "/githunMiprimeraAPP/static/js/runtime-main.2aec1dc6.js.map",
+    "static/js/2.2526c224.chunk.js": "/githunMiprimeraAPP/static/js/2.2526c224.chunk.js",
+    "static/js/2.2526c224.chunk.js.map": "/githunMiprimeraAPP/static/js/2.2526c224.chunk.js.map",
+    "static/js/3.37fdfe57.chunk.js": "/githunMiprimeraAPP/static/js/3.37fdfe57.chunk.js",
+    "static/js/3.37fdfe57.chunk.js.map": "/githunMiprimeraAPP/static/js/3.37fdfe57.chunk.js.map",
+    "index.html": "/githunMiprimeraAPP/index.html",
+    "static/css/main.9e23c673.chunk.css.map": "/githunMiprimeraAPP/static/css/main.9e23c673.chunk.css.map",
+    "static/js/2.2526c224.chunk.js.LICENSE.txt": "/githunMiprimeraAPP/static/js/2.2526c224.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aec1dc6.js",
+    "static/js/2.2526c224.chunk.js",
+    "static/css/main.9e23c673.chunk.css",
+    "static/js/main.361c7440.chunk.js"
+  ]
+}
